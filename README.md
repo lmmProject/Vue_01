@@ -1,2 +1,1 @@
-# Vue_01
-init
+#练习Vue.js基础
